@@ -796,6 +796,14 @@ form textarea {
   .skill-img {
     width: 300px;
   }
+  .home {
+    max-width: 375px;
+    overflow: hidden;
+  }
+
+  .home-text {
+    text-align: center;
+  }
 }
 
 /* TABS */
