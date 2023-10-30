@@ -804,6 +804,10 @@ form textarea {
   .home-text {
     text-align: center;
   }
+
+  .home-img {
+    display: none;
+  }
 }
 
 /* TABS */
