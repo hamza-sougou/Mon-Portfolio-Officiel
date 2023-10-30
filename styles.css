@@ -789,6 +789,15 @@ form textarea {
   }
 }
 
+@media (max-width: 375px) {
+  .about {
+    max-width: 375px;
+  }
+  .skill-img {
+    width: 300px;
+  }
+}
+
 /* TABS */
 
 .tab-body {
