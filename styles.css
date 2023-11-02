@@ -808,6 +808,10 @@ form textarea {
   .home-img {
     display: none;
   }
+
+  .about-img {
+    display: none;
+  }
 }
 
 /* TABS */
